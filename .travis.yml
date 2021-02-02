@@ -160,3 +160,4 @@ cache:
   directories:
   - node_modules
   - tmp
+  - lib/dist
